@@ -1,4 +1,3 @@
-# PROJECT01
 # AI Traffic Monitoring Platform
 
 A sophisticated MERN-stack platform that leverages artificial intelligence to monitor traffic patterns, detect suspicious activities, and alert authorities about potential threats in real-time.
