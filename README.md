@@ -26,25 +26,10 @@ A sophisticated MERN-stack platform that leverages artificial intelligence to mo
 
 1. Clone the repository
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+3. Start the development server
 
 ## Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-AI_MODEL_PATH=path_to_ai_model
-ALERT_API_KEY=authority_alert_api_key
-```
-
+Create a `.env` file in the root directory
 ## Architecture
 
 The platform follows a microservices architecture:
